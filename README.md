@@ -1,1 +1,1 @@
-# 3D-Spin
+# 3D-spin
